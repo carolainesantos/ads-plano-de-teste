@@ -1,5 +1,7 @@
 # Documentação
 
-Utilize a pasta DOCS para anexar o arquivo XLSX contendo a planilha de teste.
+Link da Planilha - 1: [Plano de Testes🍀](https://docs.google.com/spreadsheets/d/1Q0woDb1KITsLpQoWuG_XFGquiI0wRojkYEauzNvKAco/edit#gid=0)
 
-Lembrem-se de anotar os bugs como comentários no teste e sugerir melhorias no código.
+Link da Planilha - 2: [Teste e Report🍀](https://docs.google.com/spreadsheets/d/15Ap_wZ_TVw-Qn0zJdlkO2lfp-dCx8EkTKvaSnDomnug/edit#gid=261770796)
+
+🦋 Equipe: Carolaine e Maria Edª.
